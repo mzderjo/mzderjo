@@ -1,0 +1,12 @@
+Line & Termux BotToby Komut listesi
+
+pkg install python2 
+pkg install git
+git clone http://github.com/TobyG74/BotToby
+pip2 install thrift==0.9.3
+pip2 install rsa
+pip2 install requests
+pkg install nano
+cd bottoby
+ls
+nano x.py
